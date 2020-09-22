@@ -283,7 +283,7 @@ var themes = {
     "merbivore_soft": "Merbivore Soft",
     "mono_industrial": "monoindustrial",
     "monokai": "Monokai",
-    "nord_dark": "Nord Dark",
+    // "nord_dark": "Nord Dark",
     "pastel_on_dark": "Pastels on Dark",
     "solarized_dark": "Solarized-dark",
     "solarized_light": "Solarized-light",
@@ -297,7 +297,9 @@ var themes = {
     "tomorrow_night_eighties": "Tomorrow-Night-Eighties",
     "twilight": "Twilight",
     "vibrant_ink": "Vibrant Ink",
-    "xcode": "Xcode_default"
+    "xcode": "Xcode_default",
+    "visual_studio": "Visual Studio",
+    "visual_studio_dark": "Visual Studio Dark",
 };
 
 function convertBuiltinTheme(name) {
